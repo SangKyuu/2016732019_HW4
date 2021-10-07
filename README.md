@@ -1,8 +1,1 @@
-# 2016732019_HW4
-
-
-# HELLOW WORLD
-
-# this is homework 4
-
-## change on branch pr
+# This is Assignment Repository for AI Application course
